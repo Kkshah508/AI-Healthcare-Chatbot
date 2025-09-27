@@ -117,4 +117,4 @@ This is a student learning project that demonstrates basic AI chatbot concepts. 
 
 ---
 
-*Built by a student learning AI and Python! 🎓*
+
