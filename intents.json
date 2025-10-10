@@ -1,0 +1,98 @@
+{
+    "account_support": [
+        "I need help with my account",
+        "I forgot my password",
+        "How do I update my profile?",
+        "I can't log into my account",
+        "I need to change my email address",
+        "How do I delete my account?",
+        "I want to update my payment information",
+        "My account has been locked",
+        "I need to verify my identity",
+        "How do I change my account settings?"
+    ],
+    "order_status": [
+        "Where is my order?",
+        "When will my order arrive?",
+        "I want to track my package",
+        "My order hasn't arrived yet",
+        "Can I change my delivery address?",
+        "I need to cancel my order",
+        "Is my order still being processed?",
+        "How do I check my order status?",
+        "When will my order ship?",
+        "My tracking number isn't working"
+    ],
+    "billing_payment": [
+        "I was charged twice",
+        "I need a refund",
+        "I don't recognize this charge",
+        "How do I update my payment method?",
+        "My payment didn't go through",
+        "Can I get an invoice?",
+        "I need help with my bill",
+        "What payment methods do you accept?",
+        "Can I set up a payment plan?",
+        "I was overcharged"
+    ],
+    "product_inquiry": [
+        "Tell me about this product",
+        "What are the features?",
+        "Is this product in stock?",
+        "Do you have this in a different size?",
+        "What's the warranty policy?",
+        "Can I see product specifications?",
+        "Are there any discounts available?",
+        "What's the return policy?",
+        "Do you have similar products?",
+        "Is this compatible with my device?"
+    ],
+    "returns_exchanges": [
+        "I want to return an item",
+        "How do I exchange this product?",
+        "What's your return policy?",
+        "Can I get a refund?",
+        "This item is defective",
+        "I received the wrong item",
+        "How long do I have to return this?",
+        "Do I need a receipt to return?",
+        "Where do I send my return?",
+        "How much will shipping cost for a return?"
+    ],
+    "general_inquiry": [
+        "What are your business hours?",
+        "How do I contact support?",
+        "Do you ship internationally?",
+        "What's your phone number?",
+        "Where are you located?",
+        "Do you have a mobile app?",
+        "How do I subscribe to your newsletter?",
+        "What are your shipping options?",
+        "Do you offer gift cards?",
+        "How do I create an account?"
+    ],
+    "technical_support": [
+        "The app is not working",
+        "I'm having trouble logging in",
+        "The website is showing an error",
+        "My download failed",
+        "The page won't load",
+        "I can't upload my files",
+        "The system is running slow",
+        "I need help setting up my device",
+        "Something isn't working properly",
+        "How do I troubleshoot this issue?"
+    ],
+    "complaint": [
+        "I'm not satisfied with the service",
+        "This product is terrible",
+        "I want to speak to a manager",
+        "This is unacceptable",
+        "I'm very disappointed",
+        "This isn't what I ordered",
+        "The quality is poor",
+        "I received damaged goods",
+        "Your customer service is awful",
+        "I want to file a complaint?"
+    ]
+}
